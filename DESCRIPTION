@@ -3,8 +3,8 @@ Title: Tidytext analysis of Bill Shorten's public speeches
 Version: 0.0.1
 Authors@R: person("Ross", "Ireland", email = "rosseireland@gmail.com", role = c("aut", "cre"))
 Description: Tidytext analysis of Bill Shorten's public speeches
-Depends: R (>= 3.4), testthat
-Remotes: hadley/testthat
+Depends: R (>= 3.4), testremote
+Remotes: trendlock/testremote
 License: MIT
 Encoding: UTF-8
 LazyData: true
